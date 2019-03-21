@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="@android:color/background_light"
     tools:context=".WelcomeActivity">
-
+    //ini untuk judul welcome screen
     <ImageView
         android:id="@+id/title"
         android:layout_width="264dp"
